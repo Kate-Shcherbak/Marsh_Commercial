@@ -6,3 +6,7 @@ def reverse_list (list):
 #function to print list backwards 
 def print_list_backwards (list):
     print(list[::-1])
+
+#function to calc fibonacci
+def fibonacci (n):
+    pass
