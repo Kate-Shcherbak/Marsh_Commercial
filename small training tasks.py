@@ -10,3 +10,7 @@ def print_list_backwards (list):
 #function to calc fibonacci
 def fibonacci (n):
     pass
+
+#function to calc factorial
+def factorial (n):
+    pass
